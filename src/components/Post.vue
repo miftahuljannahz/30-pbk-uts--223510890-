@@ -80,7 +80,7 @@ watch(selectedUser, (newValue) => {
 <style scoped>
 h2 {
   font-size: 28px;
-  color: #2c3e50;
+  color: #ffffff;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -138,6 +138,7 @@ h2 {
 .no-posts {
   font-size: 16px;
   color: #e74c3c;
+  text-shadow: 0 0 1px #000;
   margin-top: 20px;
   text-align: center;
 }
